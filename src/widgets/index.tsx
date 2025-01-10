@@ -6,7 +6,7 @@ import { FC } from "react";
 const MyWidget: FC = () => (
   <div>
     <div className="my-custom-widget-class">
-      <h2>Я виджет MFE BAR!</h2>
+      <h2>Я виджет</h2>
     </div>
   </div>
 );
